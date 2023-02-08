@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF: -1, TVG-LOGO = "C:\Users\danie\Downloads\Letter_C.jpg" , CO:BRISASTV 
-#EXTINF:-1,Al Jazeera (QA) (Opt-1) BrisasTV
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1,Al Jazeera (QA) (Opt-2) BrisasTV
-http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,Al Jazeera (QA) (Opt-3) BrisasTV
 http://45.126.83.51/qwr9ew/s/s17/index.m3u8
 #EXTINF:-1,Arirang (KR) (Opt-1) BrisasTV
